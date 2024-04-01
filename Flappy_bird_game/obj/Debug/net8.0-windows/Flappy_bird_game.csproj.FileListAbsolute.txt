@@ -1,0 +1,17 @@
+C:\Users\user1\source\repos\Flappy_bird_game\Flappy_bird_game\bin\Debug\net8.0-windows\Flappy_bird_game.exe
+C:\Users\user1\source\repos\Flappy_bird_game\Flappy_bird_game\bin\Debug\net8.0-windows\Flappy_bird_game.deps.json
+C:\Users\user1\source\repos\Flappy_bird_game\Flappy_bird_game\bin\Debug\net8.0-windows\Flappy_bird_game.runtimeconfig.json
+C:\Users\user1\source\repos\Flappy_bird_game\Flappy_bird_game\bin\Debug\net8.0-windows\Flappy_bird_game.dll
+C:\Users\user1\source\repos\Flappy_bird_game\Flappy_bird_game\bin\Debug\net8.0-windows\Flappy_bird_game.pdb
+C:\Users\user1\source\repos\Flappy_bird_game\Flappy_bird_game\obj\Debug\net8.0-windows\Flappy_bird_game.Form1.resources
+C:\Users\user1\source\repos\Flappy_bird_game\Flappy_bird_game\obj\Debug\net8.0-windows\Flappy_bird_game.Properties.Resources.resources
+C:\Users\user1\source\repos\Flappy_bird_game\Flappy_bird_game\obj\Debug\net8.0-windows\Flappy_bird_game.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\Flappy_bird_game\Flappy_bird_game\obj\Debug\net8.0-windows\Flappy_bird_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Flappy_bird_game\Flappy_bird_game\obj\Debug\net8.0-windows\Flappy_bird_game.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Flappy_bird_game\Flappy_bird_game\obj\Debug\net8.0-windows\Flappy_bird_game.AssemblyInfo.cs
+C:\Users\user1\source\repos\Flappy_bird_game\Flappy_bird_game\obj\Debug\net8.0-windows\Flappy_bird_game.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Flappy_bird_game\Flappy_bird_game\obj\Debug\net8.0-windows\Flappy_bird_game.dll
+C:\Users\user1\source\repos\Flappy_bird_game\Flappy_bird_game\obj\Debug\net8.0-windows\refint\Flappy_bird_game.dll
+C:\Users\user1\source\repos\Flappy_bird_game\Flappy_bird_game\obj\Debug\net8.0-windows\Flappy_bird_game.pdb
+C:\Users\user1\source\repos\Flappy_bird_game\Flappy_bird_game\obj\Debug\net8.0-windows\Flappy_bird_game.genruntimeconfig.cache
+C:\Users\user1\source\repos\Flappy_bird_game\Flappy_bird_game\obj\Debug\net8.0-windows\ref\Flappy_bird_game.dll
